@@ -12,12 +12,12 @@ so we will be using the dropna() function and store the feature variables in X.
 we will be using the sklearn.linear_model, importing its LinearRegression function,
 our accuracy for NSRGY (Nestlé S.A.) is 96.64% correct to using this model, as time goes on I will add to this, evenatually using other models.
 
-Model - NSGRY accuracy = 96.64% 
+Linear Regression Model - NSGRY accuracy = 96.64% 
 
-Model - CPB accuracy = 90.62% (notice the change in confidence/accurancy, we use a notable time frame difference in the CPB example)
+Linear Regression Model - CPB accuracy = 90.62% (notice the change in confidence/accurancy, we use a notable time frame difference in the CPB example)
 
-Model - SPY accuracy = 95.62% 
+Linear Regression Model - SPY accuracy = 95.62% 
 
-Model - Netflix = 98.75%
+Linear Regression Model - Netflix accuracy = 98.75%
 
-Model - META = 97.96%
+Linear Regression Model - META accuracy = 97.96%
