@@ -21,3 +21,6 @@ Linear Regression Model - SPY accuracy = 95.62%
 Linear Regression Model - Netflix accuracy = 98.75%
 
 Linear Regression Model - META accuracy = 97.96%
+
+Our second type of analysis will be a time series approach, with the Prophet package in Python we can model in using its cross validation function to measure forecasting error using historical data. Or a fancy way of saying we want to be able to better predict the future. 
+
