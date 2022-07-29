@@ -17,3 +17,5 @@ Model - NSGRY accuracy = 96.64%
 Model - CPB accuracy = 90.62% (notice the change in confidence/accurancy, we use a notable time frame difference in the CPB example)
 
 Model - SPY accuracy = 95.62% 
+
+Model - Netflix = 98.75%
