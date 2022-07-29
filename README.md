@@ -19,3 +19,5 @@ Model - CPB accuracy = 90.62% (notice the change in confidence/accurancy, we use
 Model - SPY accuracy = 95.62% 
 
 Model - Netflix = 98.75%
+
+Model - META = 97.96%
