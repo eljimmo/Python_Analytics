@@ -1,6 +1,6 @@
 # Linear_Regression_Stocks_Python
 
-A model set for predictive analysis using linear regression and easy machine learning.  
+A model set for predictive analysis using linear regression, easy machine learning, time series forecasting and more.  
 
 
 Our explanatory variables in this model strategy are the moving averages for past 3 days and 9 days for the stock price. 
