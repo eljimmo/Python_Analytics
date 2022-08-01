@@ -17,4 +17,7 @@ df = pd.read_csv('business.csv')
 #print(df.iloc[1:4])
 
 #read specific location(R,C)
-print(df.iloc[2,1])
+#print(df.iloc[2,1])
+
+for index, row in df.iterrows():
+    print(index, row['State'])
