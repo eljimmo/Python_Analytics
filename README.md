@@ -1,8 +1,12 @@
-# Linear_Regression_Stocks_Python
+# Python_Analytics
 
-A model set for predictive analysis using linear regression, easy machine learning, time series forecasting and more.  
+A model set for pandas, seaborn, and numpy
 
 
+
+----- we will also be using this for stocks analysis on pricing and predictive measures in the coming days
+
+---- for the first analysis ----
 Our explanatory variables in this model strategy are the moving averages for past 3 days and 9 days for the stock price. 
 
 Remember that when you have more empty variables in a list you increase away from a point, and you begin to mess with limits (calculus fun)
