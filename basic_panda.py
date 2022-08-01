@@ -19,5 +19,11 @@ df = pd.read_csv('business.csv')
 #read specific location(R,C)
 #print(df.iloc[2,1])
 
-for index, row in df.iterrows():
-    print(index, row['State'])
+#for index, row in df.iterrows():
+ #   print(index, row['State'])
+#df.loc[df['Year'] == 'Wyoming']
+
+#sort or describe your data points 
+#print(df.sort_values(['State', 'Year'], ascending=False))
+
+print(df.sort_values(['State', 'Year'], ascending=[1,0]))
