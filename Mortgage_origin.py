@@ -20,3 +20,4 @@ print(ds.head)
 
 # we can prob foretell a linear relationship of riskier loans/commodities and future bankruptcies/ US Fed Policy and Lobbying 
 
+#Sinusoidal Regression Example
